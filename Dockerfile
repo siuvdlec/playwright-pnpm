@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/playwright:v1.31.2-focal
+FROM mcr.microsoft.com/playwright:v1.37.1-focal
 
 USER root
 
